@@ -1,0 +1,7 @@
+C:\Users\canah\source\repos\algoritma_final\algoritma_final\bin\Debug\algoritma_final.exe.config
+C:\Users\canah\source\repos\algoritma_final\algoritma_final\bin\Debug\algoritma_final.exe
+C:\Users\canah\source\repos\algoritma_final\algoritma_final\bin\Debug\algoritma_final.pdb
+C:\Users\canah\source\repos\algoritma_final\algoritma_final\obj\Debug\algoritma_final.csprojAssemblyReference.cache
+C:\Users\canah\source\repos\algoritma_final\algoritma_final\obj\Debug\algoritma_final.csproj.CoreCompileInputs.cache
+C:\Users\canah\source\repos\algoritma_final\algoritma_final\obj\Debug\algoritma_final.exe
+C:\Users\canah\source\repos\algoritma_final\algoritma_final\obj\Debug\algoritma_final.pdb
